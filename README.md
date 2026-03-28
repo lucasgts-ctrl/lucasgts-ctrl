@@ -1,5 +1,5 @@
 # 💫 About Me:
-SOBRE MIM<br>Busco oportunidades na área de tecnologia e programação, com interesse em desenvolver sistemas e ampliar constantemente meus conhecimentos na área. Possuo experiência em atendimento ao público, trabalho em equipe, contribuindo para um ambiente produtivo e colaborativo.
+Busco oportunidades na área de tecnologia e programação, com interesse em desenvolver sistemas e ampliar constantemente meus conhecimentos na área. Possuo experiência em atendimento ao público, trabalho em equipe, contribuindo para um ambiente produtivo e colaborativo.
 
 
 ## 🌐 Socials:
